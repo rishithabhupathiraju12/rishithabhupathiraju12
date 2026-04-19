@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-<!--
+![My Image](https://raw.githubusercontent.com/rishithabhupathiraju12/rishitha.github.io/main/FCC.jpg)<!--
 **rishithabhupathiraju12/rishithabhupathiraju12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
